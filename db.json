@@ -266,59 +266,6 @@
                             "QTY": "1.0000000000000000"
                           },
                           {
-                },
-                {
-                  "loadid": "L00172431\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n23.11.2020\r\n-\r\n2",
-                  "SHIPMENTID_Collection": {
-                    "SHIPMENTID": {
-                      "SHIPMENTID": "SH00175354",
-                      "Details_Collection": {
-                        "Details": [
-                          {
-                            "ordernum": "0111455",
-                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
-                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
-                            "WEIGHT": "149.9960000000000000",
-                            "itemid": "1151254",
-                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
-                            "QTY": "1.0000000000000000"
-                          },
-                          {
-                            "ordernum": "0111455",
-                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
-                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
-                            "WEIGHT": "149.9960000000000000",
-                            "itemid": "1151254",
-                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
-                            "QTY": "1.0000000000000000"
-                          },
-                          {
-                            "ordernum": "0111455",
-                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
-                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
-                            "WEIGHT": "149.9960000000000000",
-                            "itemid": "1151254",
-                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
-                            "QTY": "1.0000000000000000"
-                          },
-                          {
-                            "ordernum": "0111455",
-                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
-                            "CONTAINERID1": "C000547673\r\n-\r\nStorage 3 pallet",
-                            "WEIGHT": "106.6640000000000000",
-                            "itemid": "1151254",
-                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
-                            "QTY": "1.0000000000000000"
-                          },
-                          {
-                            "ordernum": "0111455",
-                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
-                            "CONTAINERID1": "C000547673\r\n-\r\nStorage 3 pallet",
-                            "WEIGHT": "106.6640000000000000",
-                            "itemid": "1151254",
-                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
-                            "QTY": "1.0000000000000000"
-                          }
                         ]
                       }
                     }
