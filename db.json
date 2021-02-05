@@ -1,140 +1,86 @@
 {
-   "Report":{
-      "xsi:schemaLocation":"LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=birakg55t13nl1mm2qrmgf55&rc%3ASchema=True",
-      "Name":"LoadList",
-      "Textbox18":"1000",
-      "xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance",
-      "xmlns":"LoadList",
-      "Tablix2":{
-         "Textbox1":{
-            "Textbox17":{
-               "Textbox15":{
-                  
-               }
+  "Report": {
+    "-xsi:schemaLocation": "LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=z2fuxbusptfaoi55342tma45&rc%3ASchema=True",
+    "-Name": "LoadList",
+    "-Textbox18": "1000",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns": "LoadList",
+    "Tablix2": {
+      "Textbox1": {
+        "Textbox17": {
+          
+        }
+      },
+      "ordernum_Collection": {
+        "ordernum": {
+          "loadid_Collection": {
+            "loadid": {
+              "-loadid": "L00182723
+-
+Tampere_5TRE
+-
+
+-
+05.02.2021
+-
+4",
+              "SHIPMENTID_Collection": {
+                "SHIPMENTID": {
+                  "-SHIPMENTID": "SH00185479",
+                  "Details_Collection": {
+                    "Details": [
+                      {
+                        "-ordernum": "TO0004509",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582533
+-
+Recycling 2 pallet",
+                        "-WEIGHT": "100.0000000000000000",
+                        "-itemid": "R006810",
+                        "-Item_name": "Combo ovikaappi, 204x42x80 cm, runko ja hyllyt valkoinen, lasiovet, lasiovien kehykset harmaa metall",
+                        "-QTY": "1.0000000000000000"
+                      },
+                      {
+                        "-ordernum": "TO0004509",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582534
+-
+Recycling 2 box",
+                        "-WEIGHT": "22.0000000000000000",
+                        "-itemid": "R004632",
+                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                        "-QTY": "1.0000000000000000"
+                      },
+                      {
+                        "-ordernum": "TO0004509",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582535
+-
+Recycling 2 box",
+                        "-WEIGHT": "22.0000000000000000",
+                        "-itemid": "R004632",
+                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                        "-QTY": "1.0000000000000000"
+                      },
+                      {
+                        "-ordernum": "TO0004509",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582536
+-
+Recycling 2 box",
+                        "-WEIGHT": "22.0000000000000000",
+                        "-itemid": "R004632",
+                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                        "-QTY": "1.0000000000000000"
+                      }
+                    ]
+                  }
+                }
+              }
             }
-         },
-         "ordernum_Collection":{
-            "ordernum":[
-               {
-                  "loadid_Collection":{
-                     "loadid":{
-                        "loadid":"L00171924\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n18.11.2020\r\n-\r\n1",
-                        "SHIPMENTID_Collection":{
-                           "SHIPMENTID":{
-                              "SHIPMENTID":"SH00174953",
-                              "Details_Collection":{
-                                 "Details":{
-                                    "ordernum":"0109550",
-                                    "CustName":"Sweco Finland Oy Tampere",
-                                    "CONTAINERID1":"C000546444\r\n-\r\nFlow 2 box",
-                                    "WEIGHT":"46.3100000000000000",
-                                    "itemid":"1155207",
-                                    "Item_name":"PodLounge, verhoiltu istuin, C1,Step Melange harmaa (SM60011), 1470x700x467",
-                                    "QTY":"1.0000000000000000"
-                                 }
-                              }
-                           }
-                        }
-                     }
-                  }
-               },
-               {
-                  "loadid_Collection":{
-                     "loadid":{
-                        "loadid":"L00172085\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n19.11.2020\r\n-\r\n3",
-                        "SHIPMENTID_Collection":{
-                           "SHIPMENTID":{
-                              "SHIPMENTID":"SH00175128",
-                              "Details_Collection":{
-                                 "Details":[
-                                    {
-                                       "ordernum":"0109613",
-                                       "CustName":"UPM Raflatac Oy",
-                                       "CONTAINERID1":"C000547285\r\n-\r\nFlow 2 box",
-                                       "WEIGHT":"32.0000000000000000",
-                                       "itemid":"4150779",
-                                       "Item_name":"Inno Two-Step pystynaulakko, epoksimaalattu, mattamusta RAL 9005,  leveys 1000, syvyys 460, korkeus",
-                                       "QTY":"2.0000000000000000"
-                                    },
-                                    {
-                                       "ordernum":"0109613",
-                                       "CustName":"UPM Raflatac Oy",
-                                       "CONTAINERID1":"C000547286\r\n-\r\nFlow 2 box",
-                                       "WEIGHT":"17.0000000000000000",
-                                       "itemid":"4161967",
-                                       "Item_name":"Inno: Demi stacking table 1500x450x720 mm, jalat:musta, kansi:musta nanolaminaatti",
-                                       "QTY":"1.0000000000000000"
-                                    },
-                                    {
-                                       "ordernum":"0109613",
-                                       "CustName":"UPM Raflatac Oy",
-                                       "CONTAINERID1":"C000547287\r\n-\r\nFlow 2 box",
-                                       "WEIGHT":"10.0000000000000000",
-                                       "itemid":"4161969",
-                                       "Item_name":"Lintex Air 27827OMV kangastaulu, L1505 K1205 mm, verhoilu Blazer Lite LTH40, ei kehystä",
-                                       "QTY":"1.0000000000000000"
-                                    }
-                                 ]
-                              }
-                           }
-                        }
-                     }
-                  }
-               },
-               {
-                  "loadid_Collection":{
-                     "loadid":{
-                        "loadid":"L00172238\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n20.11.2020\r\n-\r\n3",
-                        "SHIPMENTID_Collection":{
-                           "SHIPMENTID":{
-                              "SHIPMENTID":"SH00175299",
-                              "Details_Collection":{
-                                 "Details":[
-                                    {
-                                       "ordernum":"0110926",
-                                       "CustName":"Tampereen yliopisto Normaalikoulu",
-                                       "CONTAINERID1":"C000547765\r\n-\r\nFlow 2 pallet",
-                                       "WEIGHT":"89.9528000000000000",
-                                       "itemid":"1158213",
-                                       "Item_name":"Nooa, kahden istuttava sohva käsinoja vasemmalla, Massiivisaarni, lakattu (SAM),Fame Tiilen punaine",
-                                       "QTY":"1.0000000000000000"
-                                    },
-                                    {
-                                       "ordernum":"0110926",
-                                       "CustName":"Tampereen yliopisto Normaalikoulu",
-                                       "CONTAINERID1":"C000547765\r\n-\r\nFlow 2 pallet",
-                                       "WEIGHT":"89.9528000000000000",
-                                       "itemid":"1158219",
-                                       "Item_name":"Nooa, kolmen istuttava sohva käsinoja oikealla, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM6706",
-                                       "QTY":"1.0000000000000000"
-                                    },
-                                    {
-                                       "ordernum":"0110926",
-                                       "CustName":"Tampereen yliopisto Normaalikoulu",
-                                       "CONTAINERID1":"C000547767\r\n-\r\nFlow 2 pallet",
-                                       "WEIGHT":"57.7124000000000000",
-                                       "itemid":"1158215",
-                                       "Item_name":"Nooa, kahden istuttava sohva ilman käsinojia, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM67067)",
-                                       "QTY":"2.0000000000000000"
-                                    },
-                                    {
-                                       "ordernum":"0110926",
-                                       "CustName":"Tampereen yliopisto Normaalikoulu",
-                                       "CONTAINERID1":"C000547768\r\n-\r\nFlow 2 pallet",
-                                       "WEIGHT":"47.0611000000000000",
-                                       "itemid":"1158217",
-                                       "Item_name":"Nooa, kolmen istuttava sohva käsinoja vasemmalla, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM67",
-                                       "QTY":"1.0000000000000000"
-                                    }
-                                 ]
-                              }
-                           }
-                        }
-                     }
-                  }
-               }
-            ]
-         }
+          }
+        }
       }
-   }
+    }
+  }
 }
