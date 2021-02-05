@@ -301,52 +301,6 @@
           {
             "loadid_Collection": {
               "loadid": {
-                "-loadid": "L00182725-Tampere_5TRE-5TRE.-08.02.2021-1",
-                "SHIPMENTID_Collection": {
-                  "SHIPMENTID": {
-                    "-SHIPMENTID": "SH00185477",
-                    "Details_Collection": {
-                      "Details": {
-                        "-ordernum": "0119002",
-                        "-CustName": "Tampereen Yliopisto Keskustakampus Virta",
-                        "-CONTAINERID1": "C000582255-Chair 1 box",
-                        "-WEIGHT": "2.8200000000000000",
-                        "-itemid": "1011407",
-                        "-Item_name": "Logic työtuolit, ristiseläntuen pumppu",
-                        "-QTY": "1.0000000000000000"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          {
-            "loadid_Collection": {
-              "loadid": {
-                "-loadid": "L00182713-Tampere_5TRE-5TRE.-05.02.2021-1",
-                "SHIPMENTID_Collection": {
-                  "SHIPMENTID": {
-                    "-SHIPMENTID": "SH00185491",
-                    "Details_Collection": {
-                      "Details": {
-                        "-ordernum": "0119008",
-                        "-CustName": "Tampereen yliopisto Normaalikoulu",
-                        "-CONTAINERID1": "C000582329-Post",
-                        "-WEIGHT": "1.0200000000000000",
-                        "-itemid": "1010051",
-                        "-Item_name": "SoftX, liukunasta L-20, Musta muovi (P16), H6",
-                        "-QTY": "20.0000000000000000"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          {
-            "loadid_Collection": {
-              "loadid": {
                 "-loadid": "L00182756-Tampere_5TRE-5TRE.-08.02.2021-1",
                 "SHIPMENTID_Collection": {
                   "SHIPMENTID": {
