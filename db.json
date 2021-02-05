@@ -1,9 +1,14 @@
 {
   "Report": {
+    "xsi:schemaLocation": "LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=birakg55t13nl1mm2qrmgf55&rc%3ASchema=True",
+    "Name": "LoadList",
+    "Textbox18": "1000",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xmlns": "LoadList",
     "Tablix2": {
       "Textbox1": {
         "Textbox17": {
-          
+          "Textbox15": {}
         }
       },
       "ordernum_Collection": {
@@ -11,20 +16,167 @@
           {
             "loadid_Collection": {
               "loadid": {
-                "-loadid": "L00182473-Tampere_5TRE-5TRE.-08.02.2021-1",
+                "loadid": "L00171924\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n18.11.2020\r\n-\r\n1",
                 "SHIPMENTID_Collection": {
                   "SHIPMENTID": {
-                    "-SHIPMENTID": "SH00185410",
+                    "SHIPMENTID": "SH00174953",
                     "Details_Collection": {
                       "Details": {
-                        "-ordernum": "0118061",
-                        "-CustName": "Coronaria Kuntoutus- ja terapiapalvelut Mänttä",
-                        "-CONTAINERID1": "C000582378-Chair 1 box",
-                        "-WEIGHT": "19.9400000000000000",
-                        "-itemid": "4003302",
-                        "-Item_name": "James työtuoli, keskikorkea selkä Fame Harmaa (FM60003), istuin Fame Harmaa (FM60003), käsinojapari",
-                        "-QTY": "1.0000000000000000"
+                        "ordernum": "0109550",
+                        "CustName": "Sweco Finland Oy Tampere",
+                        "CONTAINERID1": "C000546444\r\n-\r\nFlow 2 box",
+                        "WEIGHT": "46.3100000000000000",
+                        "itemid": "1155207",
+                        "Item_name": "PodLounge, verhoiltu istuin, C1,Step Melange harmaa (SM60011), 1470x700x467",
+                        "QTY": "1.0000000000000000"
                       }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "loadid": "L00172085\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n19.11.2020\r\n-\r\n3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "SHIPMENTID": "SH00175128",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "ordernum": "0109613",
+                          "CustName": "UPM Raflatac Oy",
+                          "CONTAINERID1": "C000547285\r\n-\r\nFlow 2 box",
+                          "WEIGHT": "32.0000000000000000",
+                          "itemid": "4150779",
+                          "Item_name": "Inno Two-Step pystynaulakko, epoksimaalattu, mattamusta RAL 9005,  leveys 1000, syvyys 460, korkeus",
+                          "QTY": "2.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0109613",
+                          "CustName": "UPM Raflatac Oy",
+                          "CONTAINERID1": "C000547286\r\n-\r\nFlow 2 box",
+                          "WEIGHT": "17.0000000000000000",
+                          "itemid": "4161967",
+                          "Item_name": "Inno: Demi stacking table 1500x450x720 mm, jalat:musta, kansi:musta nanolaminaatti",
+                          "QTY": "1.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0109613",
+                          "CustName": "UPM Raflatac Oy",
+                          "CONTAINERID1": "C000547287\r\n-\r\nFlow 2 box",
+                          "WEIGHT": "10.0000000000000000",
+                          "itemid": "4161969",
+                          "Item_name": "Lintex Air 27827OMV kangastaulu, L1505 K1205 mm, verhoilu Blazer Lite LTH40, ei kehystä",
+                          "QTY": "1.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "loadid": "L00172238\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n20.11.2020\r\n-\r\n3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "SHIPMENTID": "SH00175299",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "ordernum": "0110926",
+                          "CustName": "Tampereen yliopisto Normaalikoulu",
+                          "CONTAINERID1": "C000547765\r\n-\r\nFlow 2 pallet",
+                          "WEIGHT": "89.9528000000000000",
+                          "itemid": "1158213",
+                          "Item_name": "Nooa, kahden istuttava sohva käsinoja vasemmalla, Massiivisaarni, lakattu (SAM),Fame Tiilen punaine",
+                          "QTY": "1.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0110926",
+                          "CustName": "Tampereen yliopisto Normaalikoulu",
+                          "CONTAINERID1": "C000547765\r\n-\r\nFlow 2 pallet",
+                          "WEIGHT": "89.9528000000000000",
+                          "itemid": "1158219",
+                          "Item_name": "Nooa, kolmen istuttava sohva käsinoja oikealla, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM6706",
+                          "QTY": "1.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0110926",
+                          "CustName": "Tampereen yliopisto Normaalikoulu",
+                          "CONTAINERID1": "C000547767\r\n-\r\nFlow 2 pallet",
+                          "WEIGHT": "57.7124000000000000",
+                          "itemid": "1158215",
+                          "Item_name": "Nooa, kahden istuttava sohva ilman käsinojia, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM67067)",
+                          "QTY": "2.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0110926",
+                          "CustName": "Tampereen yliopisto Normaalikoulu",
+                          "CONTAINERID1": "C000547768\r\n-\r\nFlow 2 pallet",
+                          "WEIGHT": "47.0611000000000000",
+                          "itemid": "1158217",
+                          "Item_name": "Nooa, kolmen istuttava sohva käsinoja vasemmalla, Massiivisaarni, lakattu (SAM),Fame turkoosi (FM67",
+                          "QTY": "1.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "loadid": "L00172312\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n20.11.2020\r\n-\r\n3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "SHIPMENTID": "SH00175225",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "ordernum": "0111296",
+                          "CustName": "Lääkärikeskus Aava Tampere",
+                          "CONTAINERID1": "C000548339\r\n-\r\nScreen 2 box",
+                          "WEIGHT": "18.9600000000000000",
+                          "itemid": "1011870",
+                          "Item_name": "Face-seinäke, jalka rullilla, Valkoinen (MP11), 300.6x100x55",
+                          "QTY": "4.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0111296",
+                          "CustName": "Lääkärikeskus Aava Tampere",
+                          "CONTAINERID1": "C000548339\r\n-\r\nScreen 2 box",
+                          "WEIGHT": "18.9600000000000000",
+                          "itemid": "1011870",
+                          "Item_name": "Face-seinäke, jalka rullilla, Valkoinen (MP11), 300.6x100x55",
+                          "QTY": "4.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0111296",
+                          "CustName": "Lääkärikeskus Aava Tampere",
+                          "CONTAINERID1": "C000548340\r\n-\r\nScreen 2 box",
+                          "WEIGHT": "18.4920000000000000",
+                          "itemid": "1158627",
+                          "Item_name": "Face-seinäke, verhoiltu paneeli, Soul (S66156), 1650x1198x40",
+                          "QTY": "2.0000000000000000"
+                        },
+                        {
+                          "ordernum": "0111296",
+                          "CustName": "Lääkärikeskus Aava Tampere",
+                          "CONTAINERID1": "C000548341\r\n-\r\nScreen 2 box",
+                          "WEIGHT": "18.4920000000000000",
+                          "itemid": "1158630",
+                          "Item_name": "Face-seinäke, verhoiltu paneeli, Soul (S68130), 1650x1198x40",
+                          "QTY": "2.0000000000000000"
+                        }
+                      ]
                     }
                   }
                 }
@@ -35,135 +187,144 @@
             "loadid_Collection": {
               "loadid": [
                 {
-                  "-loadid": "L00182486-Tampere_5TRE-5TRE.-08.02.2021-11",
+                  "loadid": "L00172382\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n23.11.2020\r\n-\r\n10",
                   "SHIPMENTID_Collection": {
                     "SHIPMENTID": {
-                      "-SHIPMENTID": "SH00185397",
+                      "SHIPMENTID": "SH00175403",
                       "Details_Collection": {
                         "Details": [
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581930-Storage 2 pallet",
-                            "-WEIGHT": "177.9380000000000000",
-                            "-itemid": "4023765",
-                            "-Item_name": "Combo kaappi 80x42x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548398\r\n-\r\nFlow 2 pallet",
+                            "WEIGHT": "366.1950000000000000",
+                            "itemid": "1134633",
+                            "Item_name": "PodBooth meeting, kokoushuone, 245x173x226, Powerdot MIDI, 1 virta EU, 1 USB lataus, Musta muovi (P",
+                            "QTY": "0.5000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581932-Storage 2 pallet",
-                            "-WEIGHT": "174.1540000000000000",
-                            "-itemid": "4023765",
-                            "-Item_name": "Combo kaappi 80x42x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "2.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548399\r\n-\r\nFlow 2 pallet",
+                            "WEIGHT": "366.1950000000000000",
+                            "itemid": "1134633",
+                            "Item_name": "PodBooth meeting, kokoushuone, 245x173x226, Powerdot MIDI, 1 virta EU, 1 USB lataus, Musta muovi (P",
+                            "QTY": "0.5000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581932-Storage 2 pallet",
-                            "-WEIGHT": "174.1540000000000000",
-                            "-itemid": "4142783",
-                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "1.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548400\r\n-\r\nFlow 2 pallet",
+                            "WEIGHT": "365.9961000000000000",
+                            "itemid": "1138468",
+                            "Item_name": "PodBooth meeting, kokoushuone, 245x173x226, Powerdot MIDI, 1 virta EU, 1 USB lataus, Musta muovi (P",
+                            "QTY": "0.5000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581935-Storage 2 pallet",
-                            "-WEIGHT": "166.5860000000000000",
-                            "-itemid": "4142783",
-                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548401\r\n-\r\nFlow 2 pallet",
+                            "WEIGHT": "365.9961000000000000",
+                            "itemid": "1138468",
+                            "Item_name": "PodBooth meeting, kokoushuone, 245x173x226, Powerdot MIDI, 1 virta EU, 1 USB lataus, Musta muovi (P",
+                            "QTY": "0.5000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581938-Storage 2 pallet",
-                            "-WEIGHT": "166.5860000000000000",
-                            "-itemid": "4142783",
-                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548402\r\n-\r\nFlow 2 box",
+                            "WEIGHT": "32.8241000000000000",
+                            "itemid": "1154046",
+                            "Item_name": "Noora low back, kahden istuttava sohva käsinoja vasemmalla, jalat,Valkoinen (MP11),ulkopuoli C2,Fam",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581939-Storage 2 pallet",
-                            "-WEIGHT": "166.5860000000000000",
-                            "-itemid": "4142783",
-                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548404\r\n-\r\nFlow 2 box",
+                            "WEIGHT": "32.8241000000000000",
+                            "itemid": "1154046",
+                            "Item_name": "Noora low back, kahden istuttava sohva käsinoja vasemmalla, jalat,Valkoinen (MP11),ulkopuoli C2,Fam",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581942-Storage 2 pallet",
-                            "-WEIGHT": "180.7260000000000000",
-                            "-itemid": "4142783",
-                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "2.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548405\r\n-\r\nFlow 2 box",
+                            "WEIGHT": "32.8241000000000000",
+                            "itemid": "1154049",
+                            "Item_name": "Noora low back, kahden istuttava sohva käsinoja oikealla, jalat,Valkoinen (MP11),ulkopuoli C2,Fame",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581942-Storage 2 pallet",
-                            "-WEIGHT": "180.7260000000000000",
-                            "-itemid": "4143708",
-                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "1.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000548406\r\n-\r\nFlow 2 box",
+                            "WEIGHT": "32.8241000000000000",
+                            "itemid": "1154049",
+                            "Item_name": "Noora low back, kahden istuttava sohva käsinoja oikealla, jalat,Valkoinen (MP11),ulkopuoli C2,Fame",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581943-Storage 2 pallet",
-                            "-WEIGHT": "209.0060000000000000",
-                            "-itemid": "4143708",
-                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                },
+                {
+                  "loadid": "L00172431\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n23.11.2020\r\n-\r\n2",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "SHIPMENTID": "SH00175354",
+                      "Details_Collection": {
+                        "Details": [
+                          {
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
+                            "WEIGHT": "149.9960000000000000",
+                            "itemid": "1151254",
+                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581944-Storage 2 pallet",
-                            "-WEIGHT": "209.0060000000000000",
-                            "-itemid": "4143708",
-                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
+                            "WEIGHT": "149.9960000000000000",
+                            "itemid": "1151254",
+                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581946-Storage 2 pallet",
-                            "-WEIGHT": "142.9580000000000000",
-                            "-itemid": "4144014",
-                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000547672\r\n-\r\nStorage 3 pallet",
+                            "WEIGHT": "149.9960000000000000",
+                            "itemid": "1151254",
+                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581947-Storage 2 pallet",
-                            "-WEIGHT": "142.9580000000000000",
-                            "-itemid": "4144014",
-                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000547673\r\n-\r\nStorage 3 pallet",
+                            "WEIGHT": "106.6640000000000000",
+                            "itemid": "1151254",
+                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
+                            "QTY": "1.0000000000000000"
                           },
                           {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000581948-Storage 2 pallet",
-                            "-WEIGHT": "142.9580000000000000",
-                            "-itemid": "4144014",
-                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
-                            "-QTY": "3.0000000000000000"
+                            "ordernum": "0111455",
+                            "CustName": "Valmet Technologies Oy , Lentokentänkatu 11",
+                            "CONTAINERID1": "C000547673\r\n-\r\nStorage 3 pallet",
+                            "WEIGHT": "106.6640000000000000",
+                            "itemid": "1151254",
+                            "Item_name": "Capa kaapit, kaappitorni 3M, 1344x400x500, Versa mini keypad lite shared use, Pikimusta (MP16), 1M,",
+                            "QTY": "1.0000000000000000"
                           }
                         ]
                       }
                     }
                   }
                 }
-              ]
+              }
             }
           }
         ]
