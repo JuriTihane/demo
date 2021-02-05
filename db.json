@@ -15,15 +15,7 @@
         "ordernum": {
           "loadid_Collection": {
             "loadid": {
-              "-loadid": "L00182723
--
-Tampere_5TRE
--
-
--
-05.02.2021
--
-4",
+              "-loadid": "L00182723-Tampere_5TRE--05.02.2021-4",
               "SHIPMENTID_Collection": {
                 "SHIPMENTID": {
                   "-SHIPMENTID": "SH00185479",
@@ -32,9 +24,7 @@ Tampere_5TRE
                       {
                         "-ordernum": "TO0004509",
                         "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582533
--
-Recycling 2 pallet",
+                        "-CONTAINERID1": "C000582533-Recycling 2 pallet",
                         "-WEIGHT": "100.0000000000000000",
                         "-itemid": "R006810",
                         "-Item_name": "Combo ovikaappi, 204x42x80 cm, runko ja hyllyt valkoinen, lasiovet, lasiovien kehykset harmaa metall",
@@ -43,9 +33,7 @@ Recycling 2 pallet",
                       {
                         "-ordernum": "TO0004509",
                         "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582534
--
-Recycling 2 box",
+                        "-CONTAINERID1": "C000582534-Recycling 2 box",
                         "-WEIGHT": "22.0000000000000000",
                         "-itemid": "R004632",
                         "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
@@ -54,9 +42,7 @@ Recycling 2 box",
                       {
                         "-ordernum": "TO0004509",
                         "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582535
--
-Recycling 2 box",
+                        "-CONTAINERID1": "C000582535-Recycling 2 box",
                         "-WEIGHT": "22.0000000000000000",
                         "-itemid": "R004632",
                         "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
@@ -65,9 +51,7 @@ Recycling 2 box",
                       {
                         "-ordernum": "TO0004509",
                         "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582536
--
-Recycling 2 box",
+                        "-CONTAINERID1": "C000582536-Recycling 2 box",
                         "-WEIGHT": "22.0000000000000000",
                         "-itemid": "R004632",
                         "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
