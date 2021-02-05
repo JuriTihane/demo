@@ -297,29 +297,6 @@
                 }
               ]
             }
-          },
-          {
-            "loadid_Collection": {
-              "loadid": {
-                "-loadid": "L00182756-Tampere_5TRE-5TRE.-08.02.2021-1",
-                "SHIPMENTID_Collection": {
-                  "SHIPMENTID": {
-                    "-SHIPMENTID": "SH00185627",
-                    "Details_Collection": {
-                      "Details": {
-                        "-ordernum": "0119057",
-                        "-CustName": "Intel Tampere",
-                        "-CONTAINERID1": "C000582341-Post",
-                        "-WEIGHT": "2.6400000000000000",
-                        "-itemid": "1011407",
-                        "-Item_name": "Logic työtuolit, ristiseläntuen pumppu",
-                        "-QTY": "2.0000000000000000"
-                      }
-                    }
-                  }
-                }
-              }
-            }
           }
         ]
       }
