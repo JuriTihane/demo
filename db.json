@@ -237,63 +237,6 @@
                       }
                     }
                   }
-                },
-                {
-                  "-loadid": "L00182743-Tampere_5TRE-5TRE.-08.02.2021-5",
-                  "SHIPMENTID_Collection": {
-                    "SHIPMENTID": {
-                      "-SHIPMENTID": "SH00185638",
-                      "Details_Collection": {
-                        "Details": [
-                          {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000582387-Chair 1 box",
-                            "-WEIGHT": "19.5500000000000000",
-                            "-itemid": "4023665",
-                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
-                            "-QTY": "1.0000000000000000"
-                          },
-                          {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000582388-Chair 1 box",
-                            "-WEIGHT": "19.5500000000000000",
-                            "-itemid": "4023665",
-                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
-                            "-QTY": "1.0000000000000000"
-                          },
-                          {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000582389-Chair 1 box",
-                            "-WEIGHT": "19.5500000000000000",
-                            "-itemid": "4023665",
-                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
-                            "-QTY": "1.0000000000000000"
-                          },
-                          {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000582390-Chair 1 box",
-                            "-WEIGHT": "19.5500000000000000",
-                            "-itemid": "4023665",
-                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
-                            "-QTY": "1.0000000000000000"
-                          },
-                          {
-                            "-ordernum": "0118408",
-                            "-CustName": "Elematic Oyj",
-                            "-CONTAINERID1": "C000582391-Chair 1 box",
-                            "-WEIGHT": "19.5500000000000000",
-                            "-itemid": "4023665",
-                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
-                            "-QTY": "1.0000000000000000"
-                          }
-                        ]
-                      }
-                    }
-                  }
                 }
               ]
             }
