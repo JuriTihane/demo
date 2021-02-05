@@ -1,65 +1,97 @@
 {
-  "Report": {
-    "Tablix2": {
-      "Textbox1": {
-        "Textbox17": {
-          
-        }
-      },
-      "ordernum_Collection": {
-        "ordernum": {
-          "loadid_Collection": {
-            "loadid": {
-              "-loadid": "L00182723-Tampere_5TRE--05.02.2021-4",
-              "SHIPMENTID_Collection": {
-                "SHIPMENTID": {
-                  "-SHIPMENTID": "SH00185479",
-                  "Details_Collection": {
-                    "Details": [
-                      {
-                        "-ordernum": "TO0004509",
-                        "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582533-Recycling 2 pallet",
-                        "-WEIGHT": "100.0000000000000000",
-                        "-itemid": "R006810",
-                        "-Item_name": "Combo ovikaappi, 204x42x80 cm, runko ja hyllyt valkoinen, lasiovet, lasiovien kehykset harmaa metall",
-                        "-QTY": "1.0000000000000000"
-                      },
-                      {
-                        "-ordernum": "TO0004509",
-                        "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582534-Recycling 2 box",
-                        "-WEIGHT": "22.0000000000000000",
-                        "-itemid": "R004632",
-                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
-                        "-QTY": "1.0000000000000000"
-                      },
-                      {
-                        "-ordernum": "TO0004509",
-                        "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582535-Recycling 2 box",
-                        "-WEIGHT": "22.0000000000000000",
-                        "-itemid": "R004632",
-                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
-                        "-QTY": "1.0000000000000000"
-                      },
-                      {
-                        "-ordernum": "TO0004509",
-                        "-CustName": "Martela Oyj, Outlet Tampere",
-                        "-CONTAINERID1": "C000582536-Recycling 2 box",
-                        "-WEIGHT": "22.0000000000000000",
-                        "-itemid": "R004632",
-                        "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
-                        "-QTY": "1.0000000000000000"
-                      }
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
+	"Report": {
+		"Tablix2": {
+			"Textbox1": {
+				"Textbox17": {
+					"Textbox15": ""
+				}
+			},
+			"ordernum_Collection": {
+				"ordernum": {
+					"loadid_Collection": {
+						"loadid": {
+							"SHIPMENTID_Collection": {
+								"SHIPMENTID": {
+									"Details_Collection": {
+										"Details": [
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581764\r\n-\r\nChair 1 box",
+												"_WEIGHT": "24.3900000000000000",
+												"_itemid": "4012894",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581769\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581770\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581771\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581772\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581773\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											},
+											{
+												"_ordernum": "0118408",
+												"_CustName": "Elematic Oyj",
+												"_CONTAINERID1": "C000581774\r\n-\r\nChair 1 box",
+												"_WEIGHT": "26.1200000000000000",
+												"_itemid": "4014739",
+												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+												"_QTY": "1.0000000000000000"
+											}
+										]
+									},
+									"_SHIPMENTID": "SH00185411"
+								}
+							},
+							"_loadid": "L00182472\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n08.02.2021\r\n-\r\n7"
+						}
+					}
+				}
+			}
+		},
+		"_xsi:schemaLocation": "LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=z2fuxbusptfaoi55342tma45&rc%3ASchema=True",
+		"_Name": "LoadList",
+		"_Textbox18": "1000",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xmlns": "LoadList"
+	}
 }
