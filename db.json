@@ -1,97 +1,858 @@
 {
-	"Report": {
-		"Tablix2": {
-			"Textbox1": {
-				"Textbox17": {
-					"Textbox15": ""
-				}
-			},
-			"ordernum_Collection": {
-				"ordernum": {
-					"loadid_Collection": {
-						"loadid": {
-							"SHIPMENTID_Collection": {
-								"SHIPMENTID": {
-									"Details_Collection": {
-										"Details": [
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581764\r\n-\r\nChair 1 box",
-												"_WEIGHT": "24.3900000000000000",
-												"_itemid": "4012894",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581769\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581770\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581771\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581772\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581773\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											},
-											{
-												"_ordernum": "0118408",
-												"_CustName": "Elematic Oyj",
-												"_CONTAINERID1": "C000581774\r\n-\r\nChair 1 box",
-												"_WEIGHT": "26.1200000000000000",
-												"_itemid": "4014739",
-												"_Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
-												"_QTY": "1.0000000000000000"
-											}
-										]
-									},
-									"_SHIPMENTID": "SH00185411"
-								}
-							},
-							"_loadid": "L00182472\r\n-\r\nTampere_5TRE\r\n-\r\n5TRE.\r\n-\r\n08.02.2021\r\n-\r\n7"
-						}
-					}
-				}
-			}
-		},
-		"_xsi:schemaLocation": "LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=z2fuxbusptfaoi55342tma45&rc%3ASchema=True",
-		"_Name": "LoadList",
-		"_Textbox18": "1000",
-		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-		"_xmlns": "LoadList"
-	}
+  "Report": {
+    "-xsi:schemaLocation": "LoadList http://sovaxbidb01.one.local/ReportServer?%2FCGI_replika%2FLoadList&rs%3ACommand=Render&rs%3AFormat=XML&rs%3ASessionID=d10a5mmz5ibc2g452vn1ox55&rc%3ASchema=True",
+    "Tablix2": {
+      "Textbox1": {
+        "Textbox17": {
+          
+        }
+      },
+      "ordernum_Collection": {
+        "ordernum": [
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182473-Tampere_5TRE-5TRE.-08.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185410",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "0118061",
+                        "-CustName": "Coronaria Kuntoutus- ja terapiapalvelut Mänttä",
+                        "-CONTAINERID1": "C000582378-Chair 1 box",
+                        "-WEIGHT": "19.9400000000000000",
+                        "-itemid": "4003302",
+                        "-Item_name": "James työtuoli, keskikorkea selkä Fame Harmaa (FM60003), istuin Fame Harmaa (FM60003), käsinojapari",
+                        "-QTY": "1.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": [
+                {
+                  "-loadid": "L00182472-Tampere_5TRE-.-08.02.2021-7",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "-SHIPMENTID": "SH00185411",
+                      "Details_Collection": {
+                        "Details": [
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581764-Chair 1 box",
+                            "-WEIGHT": "24.3900000000000000",
+                            "-itemid": "4012894",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581769-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581770-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581771-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581772-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581773-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581774-Chair 1 box",
+                            "-WEIGHT": "26.1200000000000000",
+                            "-itemid": "4014739",
+                            "-Item_name": "Logic 400 työtuoli, korkea verhoiltu selkänoja, ristiselän tuki Fame Musta (FM60999), istuinmekanis",
+                            "-QTY": "1.0000000000000000"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "-loadid": "L00182486-Tampere_5TRE-5TRE.-08.02.2021-11",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "-SHIPMENTID": "SH00185397",
+                      "Details_Collection": {
+                        "Details": [
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581930-Storage 2 pallet",
+                            "-WEIGHT": "177.9380000000000000",
+                            "-itemid": "4023765",
+                            "-Item_name": "Combo kaappi 80x42x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581932-Storage 2 pallet",
+                            "-WEIGHT": "174.1540000000000000",
+                            "-itemid": "4023765",
+                            "-Item_name": "Combo kaappi 80x42x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "2.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581932-Storage 2 pallet",
+                            "-WEIGHT": "174.1540000000000000",
+                            "-itemid": "4142783",
+                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581935-Storage 2 pallet",
+                            "-WEIGHT": "166.5860000000000000",
+                            "-itemid": "4142783",
+                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581938-Storage 2 pallet",
+                            "-WEIGHT": "166.5860000000000000",
+                            "-itemid": "4142783",
+                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581939-Storage 2 pallet",
+                            "-WEIGHT": "166.5860000000000000",
+                            "-itemid": "4142783",
+                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581942-Storage 2 pallet",
+                            "-WEIGHT": "180.7260000000000000",
+                            "-itemid": "4142783",
+                            "-Item_name": "Combo kaappi 80x44x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "2.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581942-Storage 2 pallet",
+                            "-WEIGHT": "180.7260000000000000",
+                            "-itemid": "4143708",
+                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581943-Storage 2 pallet",
+                            "-WEIGHT": "209.0060000000000000",
+                            "-itemid": "4143708",
+                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581944-Storage 2 pallet",
+                            "-WEIGHT": "209.0060000000000000",
+                            "-itemid": "4143708",
+                            "-Item_name": "Combo kaappi 80x44x166 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581946-Storage 2 pallet",
+                            "-WEIGHT": "142.9580000000000000",
+                            "-itemid": "4144014",
+                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581947-Storage 2 pallet",
+                            "-WEIGHT": "142.9580000000000000",
+                            "-itemid": "4144014",
+                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000581948-Storage 2 pallet",
+                            "-WEIGHT": "142.9580000000000000",
+                            "-itemid": "4144014",
+                            "-Item_name": "Combo kaappi 80x42x128 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli",
+                            "-QTY": "3.0000000000000000"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "-loadid": "L00182743-Tampere_5TRE-5TRE.-08.02.2021-5",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "-SHIPMENTID": "SH00185638",
+                      "Details_Collection": {
+                        "Details": [
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000582387-Chair 1 box",
+                            "-WEIGHT": "19.5500000000000000",
+                            "-itemid": "4023665",
+                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000582388-Chair 1 box",
+                            "-WEIGHT": "19.5500000000000000",
+                            "-itemid": "4023665",
+                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000582389-Chair 1 box",
+                            "-WEIGHT": "19.5500000000000000",
+                            "-itemid": "4023665",
+                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000582390-Chair 1 box",
+                            "-WEIGHT": "19.5500000000000000",
+                            "-itemid": "4023665",
+                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
+                            "-QTY": "1.0000000000000000"
+                          },
+                          {
+                            "-ordernum": "0118408",
+                            "-CustName": "Elematic Oyj",
+                            "-CONTAINERID1": "C000582391-Chair 1 box",
+                            "-WEIGHT": "19.5500000000000000",
+                            "-itemid": "4023665",
+                            "-Item_name": "James työtuoli, selkä  mustaa verkkoa, istuin Fame Musta (FM60999), käsinojapari 2D, mekanismi, syn",
+                            "-QTY": "1.0000000000000000"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182725-Tampere_5TRE-5TRE.-08.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185477",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "0119002",
+                        "-CustName": "Tampereen Yliopisto Keskustakampus Virta",
+                        "-CONTAINERID1": "C000582255-Chair 1 box",
+                        "-WEIGHT": "2.8200000000000000",
+                        "-itemid": "1011407",
+                        "-Item_name": "Logic työtuolit, ristiseläntuen pumppu",
+                        "-QTY": "1.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182713-Tampere_5TRE-5TRE.-05.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185491",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "0119008",
+                        "-CustName": "Tampereen yliopisto Normaalikoulu",
+                        "-CONTAINERID1": "C000582329-Post",
+                        "-WEIGHT": "1.0200000000000000",
+                        "-itemid": "1010051",
+                        "-Item_name": "SoftX, liukunasta L-20, Musta muovi (P16), H6",
+                        "-QTY": "20.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182756-Tampere_5TRE-5TRE.-08.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185627",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "0119057",
+                        "-CustName": "Intel Tampere",
+                        "-CONTAINERID1": "C000582341-Post",
+                        "-WEIGHT": "2.6400000000000000",
+                        "-itemid": "1011407",
+                        "-Item_name": "Logic työtuolit, ristiseläntuen pumppu",
+                        "-QTY": "2.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": [
+                {
+                  "-loadid": "L00182737-Tampere_5TRE-5TRE.-08.02.2021-4",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "-SHIPMENTID": "SH00185644",
+                      "Details_Collection": {
+                        "Details": [
+                          {
+                            "-ordernum": "0119078",
+                            "-CustName": "Mehiläinen Tampere hallinto",
+                            "-CONTAINERID1": "C000582655-Recycling 2 box",
+                            "-WEIGHT": "4.5000000000000000",
+                            "-itemid": "R007193",
+                            "-Item_name": "Face pöytäseinäke, 65X80, uudelleen verhoiltu vaaleanharmaa Cara EJ 004, kiinnikkeet valkoinen. Kier",
+                            "-QTY": "0.5000000000000000"
+                          },
+                          {
+                            "-ordernum": "0119078",
+                            "-CustName": "Mehiläinen Tampere hallinto",
+                            "-CONTAINERID1": "C000582656-Recycling 2 box",
+                            "-WEIGHT": "4.5000000000000000",
+                            "-itemid": "R007193",
+                            "-Item_name": "Face pöytäseinäke, 65X80, uudelleen verhoiltu vaaleanharmaa Cara EJ 004, kiinnikkeet valkoinen. Kier",
+                            "-QTY": "0.5000000000000000"
+                          },
+                          {
+                            "-ordernum": "0119078",
+                            "-CustName": "Mehiläinen Tampere hallinto",
+                            "-CONTAINERID1": "C000582657-Recycling 2 box",
+                            "-WEIGHT": "4.5000000000000000",
+                            "-itemid": "R007270",
+                            "-Item_name": "Face pöytäseinäke, 160x65 cm, verhoilu Cara EJ004, kiinnikkeet valkoiset. Kierrätystuote. 1 vuoden t",
+                            "-QTY": "0.5000000000000000"
+                          },
+                          {
+                            "-ordernum": "0119078",
+                            "-CustName": "Mehiläinen Tampere hallinto",
+                            "-CONTAINERID1": "C000582658-Recycling 2 box",
+                            "-WEIGHT": "4.5000000000000000",
+                            "-itemid": "R007270",
+                            "-Item_name": "Face pöytäseinäke, 160x65 cm, verhoilu Cara EJ004, kiinnikkeet valkoiset. Kierrätystuote. 1 vuoden t",
+                            "-QTY": "0.5000000000000000"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "-loadid": "L00182752-Tampere_5TRE-5TRE.-08.02.2021-1",
+                  "SHIPMENTID_Collection": {
+                    "SHIPMENTID": {
+                      "-SHIPMENTID": "SH00185646",
+                      "Details_Collection": {
+                        "Details": {
+                          "-ordernum": "0119078",
+                          "-CustName": "Mehiläinen Tampere hallinto",
+                          "-CONTAINERID1": "C000581955-Storage 2 box",
+                          "-WEIGHT": "50.8940000000000000",
+                          "-itemid": "4054971",
+                          "-Item_name": "Combo kaappi 80x42x90 cm, runko valkoinen melamiini (M1), hylly valkoinen melamiini (M1), sokkeli k",
+                          "-QTY": "1.0000000000000000"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182949-Tampere_5TRE-5TRE.-08.02.2021-6",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185835",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582659-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007274",
+                          "-Item_name": "Face pöytäseinäke, koko l.180 x k.65 cm, verhoilu cara kankaalla, väri vaaleanharmaa (cara hej 004),",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582660-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007274",
+                          "-Item_name": "Face pöytäseinäke, koko l.180 x k.65 cm, verhoilu cara kankaalla, väri vaaleanharmaa (cara hej 004),",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582661-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007190",
+                          "-Item_name": "Face lattiaseinäke, koko korkeus 130 x 160 cm leveys, uudelleen verhoiltu vaaleanharmaa Cara EJ 004,",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582662-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007190",
+                          "-Item_name": "Face lattiaseinäke, koko korkeus 130 x 160 cm leveys, uudelleen verhoiltu vaaleanharmaa Cara EJ 004,",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582663-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007190",
+                          "-Item_name": "Face lattiaseinäke, koko korkeus 130 x 160 cm leveys, uudelleen verhoiltu vaaleanharmaa Cara EJ 004,",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "0119183",
+                          "-CustName": "TKM TTT Finland Oy",
+                          "-CONTAINERID1": "C000582664-Recycling 2 box",
+                          "-WEIGHT": "4.5000000000000000",
+                          "-itemid": "R007190",
+                          "-Item_name": "Face lattiaseinäke, koko korkeus 130 x 160 cm leveys, uudelleen verhoiltu vaaleanharmaa Cara EJ 004,",
+                          "-QTY": "0.5000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182747-Tampere_5TRE-5TRE.-08.02.2021-3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185633",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "SO115733",
+                          "-CustName": "Iiro Mäkelä",
+                          "-CONTAINERID1": "C000582665-Recycling 2 box",
+                          "-WEIGHT": "32.0000000000000000",
+                          "-itemid": "R004044",
+                          "-Item_name": "Cupio laatikosto, 3-laatikkoa, runko ja etusarjat valkoinen, lukko, rullat, Kierrätystuote",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "SO115733",
+                          "-CustName": "Iiro Mäkelä",
+                          "-CONTAINERID1": "C000582666-Recycling 2 box",
+                          "-WEIGHT": "29.5000000000000000",
+                          "-itemid": "R007073",
+                          "-Item_name": "Pinta EQ sähköpöytä, kansi 160x80 cm, valkoinen laminaatti käytetty, jalusta keskiharmaa käytetty, s",
+                          "-QTY": "0.5000000000000000"
+                        },
+                        {
+                          "-ordernum": "SO115733",
+                          "-CustName": "Iiro Mäkelä",
+                          "-CONTAINERID1": "C000582667-Recycling 2 box",
+                          "-WEIGHT": "29.5000000000000000",
+                          "-itemid": "R007073",
+                          "-Item_name": "Pinta EQ sähköpöytä, kansi 160x80 cm, valkoinen laminaatti käytetty, jalusta keskiharmaa käytetty, s",
+                          "-QTY": "0.5000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182881-Tampere_5TRE-5TRE.-08.02.2021-3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185684",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "SO115752",
+                          "-CustName": "Martela Outlet Tampere Käteisasiakas Janne Bergman +35850483",
+                          "-CONTAINERID1": "C000582642-Recycling 2 box",
+                          "-WEIGHT": "20.1500000000000000",
+                          "-itemid": "R009147",
+                          "-Item_name": "Pinta EQ sähköpöytä, kansi 160x80 cm valkoinen käytetty, jalusta käytetty keskiharmaa, sähköluukku v",
+                          "-QTY": "0.3300000000000000"
+                        },
+                        {
+                          "-ordernum": "SO115752",
+                          "-CustName": "Martela Outlet Tampere Käteisasiakas Janne Bergman +35850483",
+                          "-CONTAINERID1": "C000582643-Recycling 2 box",
+                          "-WEIGHT": "20.1500000000000000",
+                          "-itemid": "R009147",
+                          "-Item_name": "Pinta EQ sähköpöytä, kansi 160x80 cm valkoinen käytetty, jalusta käytetty keskiharmaa, sähköluukku v",
+                          "-QTY": "0.3300000000000000"
+                        },
+                        {
+                          "-ordernum": "SO115752",
+                          "-CustName": "Martela Outlet Tampere Käteisasiakas Janne Bergman +35850483",
+                          "-CONTAINERID1": "C000582644-Recycling 2 box",
+                          "-WEIGHT": "20.7000000000000000",
+                          "-itemid": "R009147",
+                          "-Item_name": "Pinta EQ sähköpöytä, kansi 160x80 cm valkoinen käytetty, jalusta käytetty keskiharmaa, sähköluukku v",
+                          "-QTY": "0.3400000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182723-Tampere_5TRE--05.02.2021-4",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185479",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "TO0004509",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582533-Recycling 2 pallet",
+                          "-WEIGHT": "100.0000000000000000",
+                          "-itemid": "R006810",
+                          "-Item_name": "Combo ovikaappi, 204x42x80 cm, runko ja hyllyt valkoinen, lasiovet, lasiovien kehykset harmaa metall",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004509",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582534-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R004632",
+                          "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004509",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582535-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R004632",
+                          "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004509",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582536-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R004632",
+                          "-Item_name": "Axia 2 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävä istuin",
+                          "-QTY": "1.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182732-Tampere_5TRE--08.02.2021-2",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185615",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "TO0004519",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582671-Recycling 2 box",
+                          "-WEIGHT": "32.0000000000000000",
+                          "-itemid": "R010805",
+                          "-Item_name": "Plus sohvapöytä, kansi pyöreä tammi 60 cm halkaisia , jalat tammi, korkeus 50 cm. Kierrätystuote. 1",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004519",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582672-Recycling 2 pallet",
+                          "-WEIGHT": "140.0000000000000000",
+                          "-itemid": "R008726",
+                          "-Item_name": "Pinta 2 pöytä, kansi 140 x 60 cm valkoinen laminaatti uusi. T-jalusta keskiharmaa käytetty, säätöväl",
+                          "-QTY": "4.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182923-Tampere_5TRE--08.02.2021-3",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185817",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "TO0004530",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582613-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R005799",
+                          "-Item_name": "Logic 400 työtuoli, istuin ja selkänoja verhoiltu, musta Fame (60999), istuimen korkeuden ja syvyyde",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004530",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582620-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R006422",
+                          "-Item_name": "Logic 4 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävät istu",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004530",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582621-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R006422",
+                          "-Item_name": "Logic 4 työtuoli, istuin ja selkänoja uudelleen verhoiltu, musta Fame 60999, korkeussäädettävät istu",
+                          "-QTY": "1.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00182959-Tampere_5TRE--08.02.2021-7",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185856",
+                    "Details_Collection": {
+                      "Details": [
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582632-Recycling 2 pallet",
+                          "-WEIGHT": "100.0000000000000000",
+                          "-itemid": "R010883",
+                          "-Item_name": "Chat-pöytä, kansi 220x65 cm, valkoinen laminaatti, päätyjalat maalattu valkoinen, korkeus 91 cm. Kie",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582633-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582634-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582637-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582639-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582640-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        },
+                        {
+                          "-ordernum": "TO0004532",
+                          "-CustName": "Martela Oyj, Outlet Tampere",
+                          "-CONTAINERID1": "C000582641-Recycling 2 box",
+                          "-WEIGHT": "22.0000000000000000",
+                          "-itemid": "R010627",
+                          "-Item_name": "Håg H04 4400, istuin ja selkä verhoiltu musta Remix 183, korkeussäätö, keinu, syvyyssäätö, käsinojat",
+                          "-QTY": "1.0000000000000000"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00183081-Tampere_5TRE--08.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185863",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "TO0004533",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582541-Flow 2 pallet",
+                        "-WEIGHT": "20.0000000000000000",
+                        "-itemid": "4154957",
+                        "-Item_name": "Scala-työtuoli, verkkoselkänoja ja kehys musta. Korkeussäädettävät käsinojat, istuinverhoilu Era CS",
+                        "-QTY": "10.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "loadid_Collection": {
+              "loadid": {
+                "-loadid": "L00183088-Tampere_5TRE--08.02.2021-1",
+                "SHIPMENTID_Collection": {
+                  "SHIPMENTID": {
+                    "-SHIPMENTID": "SH00185976",
+                    "Details_Collection": {
+                      "Details": {
+                        "-ordernum": "TO0004534",
+                        "-CustName": "Martela Oyj, Outlet Tampere",
+                        "-CONTAINERID1": "C000582410-Table 1 pallet",
+                        "-WEIGHT": "350.0000000000000000",
+                        "-itemid": "R009755",
+                        "-Item_name": "Beat sähköpöytä, kansi 120x80 cm, valkoinen melamiini Mell1 uusi, jalusta valkoinen uusi, säätöväli",
+                        "-QTY": "6.0000000000000000"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
 }
